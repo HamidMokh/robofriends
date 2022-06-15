@@ -10,7 +10,8 @@ const root = ReactDOM.createRoot( document.getElementById('root'));
 root.render(
   <React.StrictMode>
     
-    <Hello greeting={'Hello'+' react ninja'} />
+    <Hello greeting={'Hello'+' react ninjayew'} />
+
   </React.StrictMode>
 );
 
